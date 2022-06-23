@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jinson varghese.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on JavaScript
+- 💞️ I’m looking to collaborate on JavaScript,Html,CSS.
 - 📫 How to reach me jinsonmon1818@gmail.com
 
 <!---
